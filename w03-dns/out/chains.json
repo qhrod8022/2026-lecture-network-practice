@@ -1,0 +1,302 @@
+{
+  "www.adobe.com": {
+    "answers": {
+      "google": [],
+      "quad9": [],
+      "system": []
+    },
+    "chain": [],
+    "collection_errors": [
+      "system (168.63.129.16) unavailable: TimeoutError(\"resolver 168.63.129.16 did not answer: TimeoutError('timed out')\")",
+      "google (8.8.8.8) unavailable: TimeoutError(\"resolver 8.8.8.8 did not answer: TimeoutError('timed out')\")",
+      "quad9 (9.9.9.9) unavailable: TimeoutError(\"resolver 9.9.9.9 did not answer: TimeoutError('timed out')\")"
+    ],
+    "errors": {
+      "chain": "system resolver unavailable in this environment",
+      "google": "resolver unavailable",
+      "quad9": "resolver unavailable",
+      "system": "resolver unavailable"
+    },
+    "final": null,
+    "resolver_servers": {
+      "google": "8.8.8.8",
+      "quad9": "9.9.9.9",
+      "system": "168.63.129.16"
+    }
+  },
+  "www.apple.com": {
+    "answers": {
+      "google": [],
+      "quad9": [],
+      "system": []
+    },
+    "chain": [],
+    "collection_errors": [
+      "system (168.63.129.16) unavailable: TimeoutError(\"resolver 168.63.129.16 did not answer: TimeoutError('timed out')\")",
+      "google (8.8.8.8) unavailable: TimeoutError(\"resolver 8.8.8.8 did not answer: TimeoutError('timed out')\")",
+      "quad9 (9.9.9.9) unavailable: TimeoutError(\"resolver 9.9.9.9 did not answer: TimeoutError('timed out')\")"
+    ],
+    "errors": {
+      "chain": "system resolver unavailable in this environment",
+      "google": "resolver unavailable",
+      "quad9": "resolver unavailable",
+      "system": "resolver unavailable"
+    },
+    "final": null,
+    "resolver_servers": {
+      "google": "8.8.8.8",
+      "quad9": "9.9.9.9",
+      "system": "168.63.129.16"
+    }
+  },
+  "www.bbc.co.uk": {
+    "answers": {
+      "google": [],
+      "quad9": [],
+      "system": []
+    },
+    "chain": [],
+    "collection_errors": [
+      "system (168.63.129.16) unavailable: TimeoutError(\"resolver 168.63.129.16 did not answer: TimeoutError('timed out')\")",
+      "google (8.8.8.8) unavailable: TimeoutError(\"resolver 8.8.8.8 did not answer: TimeoutError('timed out')\")",
+      "quad9 (9.9.9.9) unavailable: TimeoutError(\"resolver 9.9.9.9 did not answer: TimeoutError('timed out')\")"
+    ],
+    "errors": {
+      "chain": "system resolver unavailable in this environment",
+      "google": "resolver unavailable",
+      "quad9": "resolver unavailable",
+      "system": "resolver unavailable"
+    },
+    "final": null,
+    "resolver_servers": {
+      "google": "8.8.8.8",
+      "quad9": "9.9.9.9",
+      "system": "168.63.129.16"
+    }
+  },
+  "www.cnn.com": {
+    "answers": {
+      "google": [],
+      "quad9": [],
+      "system": []
+    },
+    "chain": [],
+    "collection_errors": [
+      "system (168.63.129.16) unavailable: TimeoutError(\"resolver 168.63.129.16 did not answer: TimeoutError('timed out')\")",
+      "google (8.8.8.8) unavailable: TimeoutError(\"resolver 8.8.8.8 did not answer: TimeoutError('timed out')\")",
+      "quad9 (9.9.9.9) unavailable: TimeoutError(\"resolver 9.9.9.9 did not answer: TimeoutError('timed out')\")"
+    ],
+    "errors": {
+      "chain": "system resolver unavailable in this environment",
+      "google": "resolver unavailable",
+      "quad9": "resolver unavailable",
+      "system": "resolver unavailable"
+    },
+    "final": null,
+    "resolver_servers": {
+      "google": "8.8.8.8",
+      "quad9": "9.9.9.9",
+      "system": "168.63.129.16"
+    }
+  },
+  "www.github.com": {
+    "answers": {
+      "google": [],
+      "quad9": [],
+      "system": []
+    },
+    "chain": [],
+    "collection_errors": [
+      "system (168.63.129.16) unavailable: TimeoutError(\"resolver 168.63.129.16 did not answer: TimeoutError('timed out')\")",
+      "google (8.8.8.8) unavailable: TimeoutError(\"resolver 8.8.8.8 did not answer: TimeoutError('timed out')\")",
+      "quad9 (9.9.9.9) unavailable: TimeoutError(\"resolver 9.9.9.9 did not answer: TimeoutError('timed out')\")"
+    ],
+    "errors": {
+      "chain": "system resolver unavailable in this environment",
+      "google": "resolver unavailable",
+      "quad9": "resolver unavailable",
+      "system": "resolver unavailable"
+    },
+    "final": null,
+    "resolver_servers": {
+      "google": "8.8.8.8",
+      "quad9": "9.9.9.9",
+      "system": "168.63.129.16"
+    }
+  },
+  "www.korea.ac.kr": {
+    "answers": {
+      "google": [],
+      "quad9": [],
+      "system": []
+    },
+    "chain": [],
+    "collection_errors": [
+      "system (168.63.129.16) unavailable: TimeoutError(\"resolver 168.63.129.16 did not answer: TimeoutError('timed out')\")",
+      "google (8.8.8.8) unavailable: TimeoutError(\"resolver 8.8.8.8 did not answer: TimeoutError('timed out')\")",
+      "quad9 (9.9.9.9) unavailable: TimeoutError(\"resolver 9.9.9.9 did not answer: TimeoutError('timed out')\")"
+    ],
+    "errors": {
+      "chain": "system resolver unavailable in this environment",
+      "google": "resolver unavailable",
+      "quad9": "resolver unavailable",
+      "system": "resolver unavailable"
+    },
+    "final": null,
+    "resolver_servers": {
+      "google": "8.8.8.8",
+      "quad9": "9.9.9.9",
+      "system": "168.63.129.16"
+    }
+  },
+  "www.microsoft.com": {
+    "answers": {
+      "google": [],
+      "quad9": [],
+      "system": []
+    },
+    "chain": [],
+    "collection_errors": [
+      "system (168.63.129.16) unavailable: TimeoutError(\"resolver 168.63.129.16 did not answer: TimeoutError('timed out')\")",
+      "google (8.8.8.8) unavailable: TimeoutError(\"resolver 8.8.8.8 did not answer: TimeoutError('timed out')\")",
+      "quad9 (9.9.9.9) unavailable: TimeoutError(\"resolver 9.9.9.9 did not answer: TimeoutError('timed out')\")"
+    ],
+    "errors": {
+      "chain": "system resolver unavailable in this environment",
+      "google": "resolver unavailable",
+      "quad9": "resolver unavailable",
+      "system": "resolver unavailable"
+    },
+    "final": null,
+    "resolver_servers": {
+      "google": "8.8.8.8",
+      "quad9": "9.9.9.9",
+      "system": "168.63.129.16"
+    }
+  },
+  "www.netflix.com": {
+    "answers": {
+      "google": [],
+      "quad9": [],
+      "system": []
+    },
+    "chain": [],
+    "collection_errors": [
+      "system (168.63.129.16) unavailable: TimeoutError(\"resolver 168.63.129.16 did not answer: TimeoutError('timed out')\")",
+      "google (8.8.8.8) unavailable: TimeoutError(\"resolver 8.8.8.8 did not answer: TimeoutError('timed out')\")",
+      "quad9 (9.9.9.9) unavailable: TimeoutError(\"resolver 9.9.9.9 did not answer: TimeoutError('timed out')\")"
+    ],
+    "errors": {
+      "chain": "system resolver unavailable in this environment",
+      "google": "resolver unavailable",
+      "quad9": "resolver unavailable",
+      "system": "resolver unavailable"
+    },
+    "final": null,
+    "resolver_servers": {
+      "google": "8.8.8.8",
+      "quad9": "9.9.9.9",
+      "system": "168.63.129.16"
+    }
+  },
+  "www.nytimes.com": {
+    "answers": {
+      "google": [],
+      "quad9": [],
+      "system": []
+    },
+    "chain": [],
+    "collection_errors": [
+      "system (168.63.129.16) unavailable: TimeoutError(\"resolver 168.63.129.16 did not answer: TimeoutError('timed out')\")",
+      "google (8.8.8.8) unavailable: TimeoutError(\"resolver 8.8.8.8 did not answer: TimeoutError('timed out')\")",
+      "quad9 (9.9.9.9) unavailable: TimeoutError(\"resolver 9.9.9.9 did not answer: TimeoutError('timed out')\")"
+    ],
+    "errors": {
+      "chain": "system resolver unavailable in this environment",
+      "google": "resolver unavailable",
+      "quad9": "resolver unavailable",
+      "system": "resolver unavailable"
+    },
+    "final": null,
+    "resolver_servers": {
+      "google": "8.8.8.8",
+      "quad9": "9.9.9.9",
+      "system": "168.63.129.16"
+    }
+  },
+  "www.spotify.com": {
+    "answers": {
+      "google": [],
+      "quad9": [],
+      "system": []
+    },
+    "chain": [],
+    "collection_errors": [
+      "system (168.63.129.16) unavailable: TimeoutError(\"resolver 168.63.129.16 did not answer: TimeoutError('timed out')\")",
+      "google (8.8.8.8) unavailable: TimeoutError(\"resolver 8.8.8.8 did not answer: TimeoutError('timed out')\")",
+      "quad9 (9.9.9.9) unavailable: TimeoutError(\"resolver 9.9.9.9 did not answer: TimeoutError('timed out')\")"
+    ],
+    "errors": {
+      "chain": "system resolver unavailable in this environment",
+      "google": "resolver unavailable",
+      "quad9": "resolver unavailable",
+      "system": "resolver unavailable"
+    },
+    "final": null,
+    "resolver_servers": {
+      "google": "8.8.8.8",
+      "quad9": "9.9.9.9",
+      "system": "168.63.129.16"
+    }
+  },
+  "www.stanford.edu": {
+    "answers": {
+      "google": [],
+      "quad9": [],
+      "system": []
+    },
+    "chain": [],
+    "collection_errors": [
+      "system (168.63.129.16) unavailable: TimeoutError(\"resolver 168.63.129.16 did not answer: TimeoutError('timed out')\")",
+      "google (8.8.8.8) unavailable: TimeoutError(\"resolver 8.8.8.8 did not answer: TimeoutError('timed out')\")",
+      "quad9 (9.9.9.9) unavailable: TimeoutError(\"resolver 9.9.9.9 did not answer: TimeoutError('timed out')\")"
+    ],
+    "errors": {
+      "chain": "system resolver unavailable in this environment",
+      "google": "resolver unavailable",
+      "quad9": "resolver unavailable",
+      "system": "resolver unavailable"
+    },
+    "final": null,
+    "resolver_servers": {
+      "google": "8.8.8.8",
+      "quad9": "9.9.9.9",
+      "system": "168.63.129.16"
+    }
+  },
+  "www.wikipedia.org": {
+    "answers": {
+      "google": [],
+      "quad9": [],
+      "system": []
+    },
+    "chain": [],
+    "collection_errors": [
+      "system (168.63.129.16) unavailable: TimeoutError(\"resolver 168.63.129.16 did not answer: TimeoutError('timed out')\")",
+      "google (8.8.8.8) unavailable: TimeoutError(\"resolver 8.8.8.8 did not answer: TimeoutError('timed out')\")",
+      "quad9 (9.9.9.9) unavailable: TimeoutError(\"resolver 9.9.9.9 did not answer: TimeoutError('timed out')\")"
+    ],
+    "errors": {
+      "chain": "system resolver unavailable in this environment",
+      "google": "resolver unavailable",
+      "quad9": "resolver unavailable",
+      "system": "resolver unavailable"
+    },
+    "final": null,
+    "resolver_servers": {
+      "google": "8.8.8.8",
+      "quad9": "9.9.9.9",
+      "system": "168.63.129.16"
+    }
+  }
+}
